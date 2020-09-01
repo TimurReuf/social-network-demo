@@ -1,0 +1,11 @@
+.itemFriend{
+    height: 100px;
+    display: inline-block;
+    width: 50px
+}
+.itemFriend img{
+    margin-top: 10px;
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+}

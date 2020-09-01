@@ -1,0 +1,21 @@
+.nav{
+    grid-area: n;
+    background-color: gold;
+    padding: 20px;
+}
+
+.item a{
+    text-decoration: none;
+}
+.item a.active{
+    color: blue;
+}
+.itemSettings{
+    margin-top: 20px;
+
+}
+
+.itemFriends{
+    margin-top: 20px;
+}
+
